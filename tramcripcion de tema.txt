@@ -1,0 +1,24 @@
+La solución del problema del mapa de cuatro colores
+
+por Kenneth Appel   y 
+Wolfgang Haken
+
+Primera publicación: 1977
+
+En 1852, unos meses después de haber terminado sus
+estudios en el University College de Londres, 
+Francis Guthrie escribió una carta a su hermano 
+Frederick, que todavía estaba en la universidad 
+como estudiante del matemático Augustus De Morgan.
+
+francis le señalo que con solo cuatro colores de 
+tal forma que los paises no compartan un frontera
+con un color comun 
+
+(esto ocaciono una duda a francis la cual sela
+pregunto a augustus sin embargo esto perduro 
+como un duda durante 124 años)
+
+En 1976 resolvimos el problema de los cuatro 
+colores. La conjetura de Guthrie fue demostrada 
+matemáticamente

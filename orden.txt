@@ -1,0 +1,26 @@
+resolucion cuadtro
+
+colocar las referencias del artuculo ORIJIANL autor,
+premisa, etc
+
+cual es el problema a resolver:
+por que con cuatro coleres maximo se puede rellenar
+un mapa 2D sin que sus fronteras esten formadas por
+2 coleres iguales
+
+cual era el objetivo de la investigacion:
+demostrar matematicamente la razon de la del 
+problemaanteriormente mencionado 
+
+como se analizaron los regustros/la informacion:
+pendiente
+
+qu resultado se descrieben y como se organizan:
+pendiente
+
+que muestra la comparacion entre los resultados y 
+la literarura:
+pendiente 
+
+que se proyercta:
+pendinte 
